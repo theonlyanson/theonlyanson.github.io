@@ -21,7 +21,7 @@ About Me My name is Anson Sarosh Dsouza, and I&amp;rsquo;m a 21-year-old hailing
       <link>https://theonlyanson.github.io/posts/dedicated_workspace_i3wm/</link>
       <pubDate>Thu, 15 May 2025 15:30:10 +0530</pubDate>
       <guid>https://theonlyanson.github.io/posts/dedicated_workspace_i3wm/</guid>
-      <description>Assigning a Dedicated Workspace for Specific Applications in i3wm In this guide, I’ll show you how to assign specific applications to dedicated workspaces in i3wm, a tiling window manager for Linux. By doing this, you can streamline your workflow by ensuring that certain applications always open in their designated workspace, making your setup more organized and efficient.
+      <description>In this guide, I’ll show you how to assign specific applications to dedicated workspaces in i3wm, a tiling window manager for Linux. By doing this, you can streamline your workflow by ensuring that certain applications always open in their designated workspace, making your setup more organized and efficient.
 ✅ Step 1: Identify the Application Class Name To assign an application to a specific workspace, you need to first identify its class name.</description>
     </item>
     <item>
